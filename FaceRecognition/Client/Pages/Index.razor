@@ -1,0 +1,35 @@
+﻿@page "/"
+@inject IJSRuntime JSRuntime
+
+<style>
+    #overlay, .overlay {
+        position: absolute;
+    }
+
+    .face {
+        margin: 10px;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+ <h2>Doble Click on button to detect face</h2>
+        <video id="video" width="320" height="240" autoplay></video>
+        <button id="clickphoto">Click Photo</button>
+        <canvas id="canvas" width="320" height="240" hidden></canvas>
+        <div class="face">
+            <img src="./Img/023.jpg" id="originalImg" style="width: 30%; height: 30%; border: 1px solid black;" alt="ImageAfterClick" />
+            <p id="name"></p>
+            <canvas id="reflay" class="overlay"></canvas>
+        </div>
+
+
+@code{
+    protected override void OnAfterRender(bool firstRender)
+    {
+        JSRuntime.InvokeAsync<String>("facereco", "video", "clickphoto");
+    }
+}

@@ -1,0 +1,225 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\obj\\Debug\\net6.0\\build-gz\\FKqW4gXt.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FaceRecognition.Client.styles.css",
+      "PackagePath": "staticwebassets\\FaceRecognition.Client.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\obj\\Debug\\net6.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\Img\\023.jpg",
+      "PackagePath": "staticwebassets\\Img\\023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\Img\\PraveenSankhla.jpg",
+      "PackagePath": "staticwebassets\\Img\\PraveenSankhla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\Img\\TeenuSharma.jpg",
+      "PackagePath": "staticwebassets\\Img\\TeenuSharma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\Img\\komalsuthar.jpg",
+      "PackagePath": "staticwebassets\\Img\\komalsuthar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\Img\\tarunvaya.jpg",
+      "PackagePath": "staticwebassets\\Img\\tarunvaya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\js\\face-api.js",
+      "PackagePath": "staticwebassets\\js\\face-api.js"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\js\\face-api.js.map",
+      "PackagePath": "staticwebassets\\js\\face-api.js.map"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\js\\face-api.min.js",
+      "PackagePath": "staticwebassets\\js\\face-api.min.js"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\js\\faceSystem.js",
+      "PackagePath": "staticwebassets\\js\\faceSystem.js"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\js\\jquery-3.6.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\age_gender_model-shard1.bin",
+      "PackagePath": "staticwebassets\\models\\age_gender_model-shard1.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\age_gender_model-weights_manifest.json",
+      "PackagePath": "staticwebassets\\models\\age_gender_model-weights_manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\face_expression_model-shard1.bin",
+      "PackagePath": "staticwebassets\\models\\face_expression_model-shard1.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\face_expression_model-weights_manifest.json",
+      "PackagePath": "staticwebassets\\models\\face_expression_model-weights_manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\face_landmark_68_model-shard1.bin",
+      "PackagePath": "staticwebassets\\models\\face_landmark_68_model-shard1.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\face_landmark_68_model-weights_manifest.json",
+      "PackagePath": "staticwebassets\\models\\face_landmark_68_model-weights_manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\face_landmark_68_tiny_model-shard1.bin",
+      "PackagePath": "staticwebassets\\models\\face_landmark_68_tiny_model-shard1.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\face_landmark_68_tiny_model-weights_manifest.json",
+      "PackagePath": "staticwebassets\\models\\face_landmark_68_tiny_model-weights_manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\face_recognition_model-shard1.bin",
+      "PackagePath": "staticwebassets\\models\\face_recognition_model-shard1.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\face_recognition_model-shard2.bin",
+      "PackagePath": "staticwebassets\\models\\face_recognition_model-shard2.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\face_recognition_model-weights_manifest.json",
+      "PackagePath": "staticwebassets\\models\\face_recognition_model-weights_manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\mtcnn_model-shard1.bin",
+      "PackagePath": "staticwebassets\\models\\mtcnn_model-shard1.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\mtcnn_model-weights_manifest.json",
+      "PackagePath": "staticwebassets\\models\\mtcnn_model-weights_manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\ssd_mobilenetv1_model-shard1.bin",
+      "PackagePath": "staticwebassets\\models\\ssd_mobilenetv1_model-shard1.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\ssd_mobilenetv1_model-shard2.bin",
+      "PackagePath": "staticwebassets\\models\\ssd_mobilenetv1_model-shard2.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\ssd_mobilenetv1_model-weights_manifest.json",
+      "PackagePath": "staticwebassets\\models\\ssd_mobilenetv1_model-weights_manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\tiny_face_detector_model-shard1.bin",
+      "PackagePath": "staticwebassets\\models\\tiny_face_detector_model-shard1.bin"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\models\\tiny_face_detector_model-weights_manifest.json",
+      "PackagePath": "staticwebassets\\models\\tiny_face_detector_model-weights_manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FaceRecognition.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FaceRecognition.Client.props",
+      "PackagePath": "build\\FaceRecognition.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FaceRecognition.Client.props",
+      "PackagePath": "buildMultiTargeting\\FaceRecognition.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FaceRecognition.Client.props",
+      "PackagePath": "buildTransitive\\FaceRecognition.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
