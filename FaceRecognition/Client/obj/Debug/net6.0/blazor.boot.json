@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-6NXprR7wyUZxpdXxaSPHSoC5uOL5UCc7bsZG3TSuVxE=",
       "System.Private.CoreLib.dll": "sha256-igtwZSR0\/lrbmwL\/XiTsEkIeSL+736GHTZPReYguZCQ=",
       "FaceRecognition.Shared.dll": "sha256-GCvT6bEAT31yBGqw8bKKvVl8gA\/XnXzV0jMCHouXZj8=",
-      "FaceRecognition.Client.dll": "sha256-+gdqDs4KRc+ygLUhGm0l0pNYMaPozMz4JmQ5g4UVR\/I="
+      "FaceRecognition.Client.dll": "sha256-UCkYkC2xhhgQbHoFbIEc4czLup+D8YUoci\/lVGVr3hY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "FaceRecognition.Shared.pdb": "sha256-EiMmjKRazhpoewOsKv\/0AKjoFn5vu3cwhUppCYUnrGo=",
-      "FaceRecognition.Client.pdb": "sha256-WQakuyrwDSzoLYbbaLIyCZ\/30GaRF4Sffbb97bayxBw="
+      "FaceRecognition.Client.pdb": "sha256-su4k085Oj745DCUo4HtqzxUYS5VeRTTJ6aV4ehYnz\/o="
     },
     "runtime": {
       "dotnet.6.0.14.73n2nakv65.js": "sha256-54cJ6JdGhGbKaLWxHfRYzYbuyRq2wlK\/ZDzfSXD3FEs=",

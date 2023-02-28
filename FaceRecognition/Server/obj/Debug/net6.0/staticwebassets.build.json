@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sdwNQwemcho4a0wTO4hgqs03OCDOgRh/XU7vJKWR7aM=",
+  "Hash": "nla5EXe575qcP1u66UJekiIkQV9JNidmDMWjBmSmKYw=",
   "Source": "FaceRecognition.Server",
   "BasePath": "_content/FaceRecognition.Server",
   "Mode": "Default",
@@ -7252,6 +7252,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Img\\tarunvaya.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\Img\\TeenuSharma.jpg",
+      "SourceId": "FaceRecognition.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Img/TeenuSharma.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\TeenuSharma.jpg"
     },
     {
       "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\FaceRecognition\\FaceRecognition\\Client\\wwwroot\\index.html",

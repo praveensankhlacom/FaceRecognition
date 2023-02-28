@@ -1,3 +1,5 @@
+C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\IuGFdklv.gz
+C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\dKxuRSD9.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.14.73n2nakv65.js
@@ -692,7 +694,6 @@ C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debu
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\m7lTCaQL.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\t4grVpQA.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\2c3++vTA.gz
-C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\IuGFdklv.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\+FGFLsTz.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\VvjYOSr6.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\sVEpGyN9.gz
@@ -770,7 +771,6 @@ C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debu
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\fLYe5LZ6.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\x9FmF8JA.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\xR+9ZfJb.gz
-C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\dKxuRSD9.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\LrMuPAPH.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\FEG5dynx.gz
 C:\Users\praveen.sankhla\Desktop\FaceRecognition\FaceRecognition\Client\obj\Debug\net6.0\build-gz\oeaSnoJh.gz

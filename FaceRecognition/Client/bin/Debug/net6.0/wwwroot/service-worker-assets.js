@@ -81,7 +81,7 @@
       "url": "Img\/TeenuSharma.jpg"
     },
     {
-      "hash": "sha256-ItIpGfnEnSLUlU\/q0v1wsalnJb4Cv9osggwrqPFWnO0=",
+      "hash": "sha256-9ZlfF+c8zzs1W1GX6PWh8nfWbl2j9TYVyH+8wI7RruQ=",
       "url": "index.html"
     },
     {
@@ -97,7 +97,7 @@
       "url": "js\/face-api.min.js"
     },
     {
-      "hash": "sha256-hBx1CsykRP1ADnonxOcTiNhnpy\/Mhmc7aApPB9xRKMg=",
+      "hash": "sha256-4lDtrAIUPZIVS3tp03lOkD040lRHkGGDa\/2UJcVUr\/s=",
       "url": "js\/faceSystem.js"
     },
     {
@@ -981,11 +981,11 @@
       "url": "_framework\/FaceRecognition.Shared.pdb"
     },
     {
-      "hash": "sha256-+gdqDs4KRc+ygLUhGm0l0pNYMaPozMz4JmQ5g4UVR\/I=",
+      "hash": "sha256-UCkYkC2xhhgQbHoFbIEc4czLup+D8YUoci\/lVGVr3hY=",
       "url": "_framework\/FaceRecognition.Client.dll"
     },
     {
-      "hash": "sha256-WQakuyrwDSzoLYbbaLIyCZ\/30GaRF4Sffbb97bayxBw=",
+      "hash": "sha256-su4k085Oj745DCUo4HtqzxUYS5VeRTTJ6aV4ehYnz\/o=",
       "url": "_framework\/FaceRecognition.Client.pdb"
     },
     {
@@ -993,9 +993,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-\/GvQtLtMScx5gMFS0IeV9BsV8WrLpR4nWB\/dGcN71hk=",
+      "hash": "sha256-\/czqwEzNjvsFbzFrFk6Fh5u2CDuUDKbKwSd3GOTYg0o=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "CwyiGFz2"
+  "version": "tqkEoBmo"
 };
